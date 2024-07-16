@@ -1,6 +1,5 @@
 import { createApp } from 'vue';
 import App from './App.vue';
-import router from './router/index';
 import '@/assets/styles/styles.css';
 
 // Import the FontAwesome library
@@ -18,7 +17,5 @@ const app = createApp(App);
 
 // Register the component globally
 app.component('font-awesome-icon', FontAwesomeIcon);
-
-app.use(router);
 
 app.mount('#app');

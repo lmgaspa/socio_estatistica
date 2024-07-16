@@ -5,11 +5,11 @@
         <img src="@/assets/images/logo_socio.jpeg" alt="Logo" class="h-8 mr-4">
       </div>
       <div class="hidden lg:flex space-x-4">
-        <router-link to="/" class="text-white hover:text-gray-300">HOME</router-link>
-        <router-link to="#proposito" class="text-white hover:text-gray-300">NOSSO PROPÓSITO</router-link>
-        <router-link to="#metodologia" class="text-white hover:text-gray-300">METODOLOGIA</router-link>
-        <router-link to="#quem-somos" class="text-white hover:text-gray-300">QUEM SOMOS</router-link>
-        <router-link to="#contato" class="text-white hover:text-gray-300">CONTATO</router-link>
+        <a href="/" class="text-white hover:text-gray-300">HOME</a>
+        <a href="#proposito" class="text-white hover:text-gray-300">NOSSO PROPÓSITO</a>
+        <a href="#metodologia" class="text-white hover:text-gray-300">METODOLOGIA</a>
+        <a href="#quemsomos" class="text-white hover:text-gray-300">QUEM SOMOS</a>
+        <a href="#contato" class="text-white hover:text-gray-300">CONTATO</a>
       </div>
       <button @click="toggleMenu" class="lg:hidden text-white">
         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -18,11 +18,11 @@
       </button>
     </div>
     <div v-if="isMenuOpen" class="lg:hidden text-center mt-2 space-y-2">
-      <router-link to="/" class="block text-white py-2">HOME</router-link>
-      <router-link to="#proposito" class="block text-white py-2">NOSSO PROPÓSITO</router-link>
-      <router-link to="#metodologia" class="block text-white py-2">METODOLOGIA</router-link>
-      <router-link to="#quem-somos" class="block text-white py-2">QUEM SOMOS</router-link>
-      <router-link to="#contato" class="block text-white py-2">CONTATO</router-link>
+      <a href="/" class="block text-white py-2" @click="closeMenu">HOME</a>
+      <a href="#proposito" class="block text-white py-2" @click="closeMenu">NOSSO PROPÓSITO</a>
+      <a href="#metodologia" class="block text-white py-2" @click="closeMenu">METODOLOGIA</a>
+      <a href="#quemsomos" class="block text-white py-2" @click="closeMenu">QUEM SOMOS</a>
+      <a href="#contato" class="block text-white py-2" @click="closeMenu">CONTATO</a>
     </div>
   </nav>
 </template>
@@ -39,9 +39,14 @@ export default defineComponent({
       isMenuOpen.value = !isMenuOpen.value;
     }
 
+    function closeMenu() {
+      isMenuOpen.value = false;
+    }
+
     return {
       isMenuOpen,
       toggleMenu,
+      closeMenu,
     };
   },
 });

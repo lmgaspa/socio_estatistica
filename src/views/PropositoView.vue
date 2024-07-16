@@ -1,5 +1,5 @@
 <template>
-  <div class="text-center p-8">
+  <div id="proposito" class="text-center p-8">
     <h1 class="text-4xl font-bold mb-4">NOSSO PROPÓSITO</h1>
     <p class="text-3xl font-bold text-color1 mb-8">
       Trabalhamos com Pesquisas Políticas há 30 anos na região Cacaoeira da
@@ -18,10 +18,11 @@
         <img
           src="/src/assets/images/folder.jpg"
           alt="Imagem relacionada ao propósito"
-          class="w-full object-contain"
+          class="hidden sm:block w-full"
         />
     </div>
-  </div>
+
+  </div>  
 </template>
 
 <script lang="ts">

@@ -1,9 +1,5 @@
 <template>
   <div>
-    <section id="home" class="p-8">
-      <h1 class="text-4xl font-bold mb-4">Home</h1>
-      <!-- Conteúdo da Home -->
-    </section>
     <PropositoView />
     <MetodologiaView />
     <QuemSomosView />
@@ -30,5 +26,4 @@ export default defineComponent({
 </script>
 
 <style scoped>
-/* Estilos adicionais se necessário */
 </style>

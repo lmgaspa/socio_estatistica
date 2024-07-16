@@ -1,5 +1,5 @@
 <template>
-  <div class="text-center p-8">
+  <div id="quemsomos" class="text-center ">
     <h1 class="text-4xl font-bold mb-4">Quem Somos</h1>
     <p class="text-xl mb-8">
       A Sócio Estatística, fundada no início dos anos 90, mantém as seguintes diretrizes:
