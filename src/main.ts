@@ -1,6 +1,7 @@
 import { createApp } from 'vue';
 import App from './App.vue';
-import './styles.css';
+import router from './router/index';
+import '@/assets/styles/styles.css';
 
 // Import the FontAwesome library
 import { library } from '@fortawesome/fontawesome-svg-core';
@@ -17,5 +18,7 @@ const app = createApp(App);
 
 // Register the component globally
 app.component('font-awesome-icon', FontAwesomeIcon);
+
+app.use(router);
 
 app.mount('#app');

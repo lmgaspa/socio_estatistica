@@ -1,0 +1,36 @@
+<template>
+  <div class="text-center p-8">
+    <h1 class="text-4xl font-bold mb-4">Quem Somos</h1>
+    <p class="text-xl mb-8">
+      A Sócio Estatística, fundada no início dos anos 90, mantém as seguintes diretrizes:
+    </p>
+    <ul class="list-disc text-xl mb-12 text-left mx-auto max-w-2xl">
+      <li class="mb-4">
+        <strong>Foco em Pesquisas:</strong> Realiza exclusivamente pesquisas de mercado e opinião, sem atuar em assessoria ou consultoria.
+      </li>
+      <li class="mb-4">
+        <strong>Não Exclusividade:</strong> Não possui contratos de exclusividade. Em caso de conflito de interesses, especialmente em períodos eleitorais, prioriza o cliente regular.
+      </li>
+      <li class="mb-4">
+        <strong>Anonimato Garantido:</strong> Assegura o anonimato dos entrevistados, utilizando dados apenas de forma agregada.
+      </li>
+      <li class="mb-4">
+        <strong>Ética e Segurança:</strong> Observa o código de ética das empresas de pesquisa e evita questões que comprometam a integridade dos pesquisadores ou valores éticos.
+      </li>
+      <li class="mb-4">
+        <strong>Compromisso com a Verdade:</strong> O compromisso principal é com a verdade refletida nas pesquisas.
+      </li>
+    </ul>
+  </div>
+</template>
+
+<script lang="ts">
+import { defineComponent } from 'vue';
+
+export default defineComponent({
+  name: 'QuemSomosView',
+});
+</script>
+
+<style scoped>
+</style>
