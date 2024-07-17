@@ -38,7 +38,7 @@
     </p>
     <p class="text-xl mb-6">
       Somos uma empresa de pesquisas eleitorais, atuante desde 1992, atendendo
-      candidatos em toda a região Cacoeira. Cobrimos aproximadamente 40
+      candidatos em toda a região Cacaueira. Cobrimos aproximadamente 40
       municípios, entre elas, Itabuna, Ilhéus, Camacã, Ipiau, entre outros.
     </p>
     <p class="text-xl mb-6">

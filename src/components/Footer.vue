@@ -1,5 +1,6 @@
 <template>
   <footer class="p-4 bg-color1 text-white text-center">
+    <h1 class="text-3xl font-bold mb-4">Entre em contato conosco</h1>
     <div class="flex items-center justify-center space-x-2">
       <font-awesome-icon :icon="['fas', 'phone']" class="w-6 h-6" />
       <p>(73) 3212-1229</p>
