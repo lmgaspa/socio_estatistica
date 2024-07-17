@@ -8,7 +8,7 @@
       </div>
     </div>
     <div class="flex-1 flex items-center justify-center bg-pink-900 p-8">
-      <form class="w-full max-w-4/6 bg-white p-8 rounded shadow-md">
+      <form class="w-full bg-white p-4 rounded shadow-md">
         <h2 class="text-3xl font-bold mb-4 text-center">PRONTO PARA SOLICITAR UM ORÇAMENTO?</h2>
         <p class="text-center font-bold mb-6">PREENCHA O FORMULÁRIO E ENTRAREMOS EM CONTATO.</p>
         <div class="mb-4">

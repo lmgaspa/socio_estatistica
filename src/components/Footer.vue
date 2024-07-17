@@ -1,5 +1,5 @@
 <template>
-  <footer class="p-4 bg-color1 text-white text-center mt-1">
+  <footer class="p-4 bg-color1 text-white text-center">
     <div class="flex items-center justify-center space-x-2">
       <font-awesome-icon :icon="['fab', 'whatsapp']" class="w-6 h-6" />
       <p>(73) 9999-9999</p>

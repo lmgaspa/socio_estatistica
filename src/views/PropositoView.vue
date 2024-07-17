@@ -12,16 +12,16 @@
     </p>
     <p class="text-xl mb-6">
       Temos como objetivo revelar o perfil do eleitor, investigar as intenções
-      de voto e elaborar estratégias ao nossos clientes.
+      de voto, fazendo com que o mesmo tenha mais ferramentas para elaborar suas estratégias na campanha.
     </p>
-    <div class="mt-10">
+    <div class="pb-10"></div>
+    <div class="pt-2">
         <img
           src="/src/assets/images/folder.jpg"
           alt="Imagem relacionada ao propósito"
-          class="hidden sm:block w-full"
+          class="w-full max-sm:scale-150"
         />
     </div>
-
   </div>  
 </template>
 

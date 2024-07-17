@@ -1,5 +1,5 @@
 <template>
-  <div id="metodologia" class="flex flex-col items-center">
+  <div id="metodologia" class="flex flex-col items-center pt-6">
     <h1 class="text-4xl font-bold mb-4">Metodologia</h1>
     <p class="text-xl mb-8 text-center">
       Fazemos colheita de dados na rua, entrevistando pessoas com base no que o nosso cliente deseja saber.
