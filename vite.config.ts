@@ -13,5 +13,5 @@ export default defineConfig({
       '@': path.resolve(__dirname, 'src'),
     },
   },
-  base: '/subpath/', // ajuste o caminho conforme necessário
+  base: '/', // ajuste o caminho conforme necessário
 })
