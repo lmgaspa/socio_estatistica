@@ -1,5 +1,5 @@
 <template>
-<div id="contato" class="flex h-screen flex-col sm:flex-row">
+<div id="contato" class="flex flex-col sm:flex-row">
   <div class="flex-1 relative hidden lg:block">
     <img src="/src/assets/images/contato.jpg" alt="Descrição da imagem" class="w-full h-full object-cover">
     <div class="absolute bottom-0 right-0 p-2 bg-black bg-opacity-50 text-white text-xs opacity-0 hover:opacity-100 transition-opacity duration-300">
