@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col items-center p-4 bg-gray-100">
+  <div class="flex flex-col items-center p-8 mt-8 bg-gray-100">
     <h1 class="text-3xl font-bold mb-4">Nossa localização</h1>
     <div class="map-container">
       <iframe
