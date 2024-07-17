@@ -45,19 +45,12 @@
     <div class="relative">
       <img
         src="/src/assets/images/folder.jpg"
-        alt="Imagem relacionada ao propósito"
+        alt="Pessoas andando na rua"
         class="w-full max-sm:scale-150"
       />
       <div
         class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300"
       >
-        <span class="bg-white text-black p-2 rounded-md text-sm">
-          <a
-            href="https://br.freepik.com/fotos-gratis/pessoas-de-negocios-que-discutem-os-resultados-do-trabalho-em-equipe-bem-sucedido_1211592.htm#from_view=detail_alsolike"
-            target="_blank"
-            >Imagem de ijeab no Freepik</a
-          >
-        </span>
       </div>
     </div>
   </div>
