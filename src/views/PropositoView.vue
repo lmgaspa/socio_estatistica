@@ -5,6 +5,11 @@
       alt="Imagem Home"
       class="w-full mb-4"
     />
+    <div class="absolute bottom-0 right-0 p-2 bg-black bg-opacity-50 text-white text-xs opacity-0 hover:opacity-100 transition-opacity duration-300">
+      <a href="https://br.freepik.com/fotos-gratis/pessoas-de-negocios-que-discutem-os-resultados-do-trabalho-em-equipe-bem-sucedido_1211592.htm#from_view=detail_alsolike" target="_blank">
+        Imagem de ijeab no Freepik
+      </a>
+    </div>
     <div class="text-center p-8">
       <h1 class="text-4xl font-bold mb-4 items-center">
         NOTA DE AVISO SOBRE AS ELEIÇÕES MUNICIPAIS DE 2024

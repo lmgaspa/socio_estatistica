@@ -13,5 +13,5 @@ export default defineConfig({
       '@': path.resolve(__dirname, 'src'),
     },
   },
-  base: '/', // ajuste o caminho conforme necessário
+  base: '/', // ajuste conforme necessário para produção
 })
