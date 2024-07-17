@@ -1,13 +1,13 @@
 <template>
-  <div id="proposito" class="text-center p-8">
+  <div id="proposito" class="text-center p-4">
     <img
       src="/src/assets/images/home2.png"
       alt="Imagem Home"
       class="w-full mb-4"
     />
     <div class="text-center p-8">
-      <h1 class="text-4xl font-bold mb-4">
-        NOTA DE ESCLARECIMENTO SOBRE AS ELEIÇÕES MUNICIPAIS DE 2024
+      <h1 class="text-4xl font-bold mb-4 items-center">
+        NOTA DE AVISO SOBRE AS ELEIÇÕES MUNICIPAIS DE 2024
       </h1>
       <p class="text-xl mb-6">
         A Sócio Estatistica não publica e não autoriza a divulgação da suas
