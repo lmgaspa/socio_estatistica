@@ -6,9 +6,21 @@
     <title>Socio Estatistica</title>
     <meta name="description" content="Empresa de Pesquisas Políticas na região da Bahia-Brasil">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="preload" href="/src/styles/styles.css" as="style">
+    <link rel="stylesheet" href="/src/styles/styles.css">
+    <style>
+      body {
+        visibility: hidden;
+      }
+    </style>
   </head>
   <body>
     <div id="app"></div>
+    <script type="module">
+      document.addEventListener('DOMContentLoaded', function () {
+        document.body.style.visibility = 'visible';
+      });
+    </script>
     <script type="module" src="/src/main.ts"></script>
   </body>
 </html>
