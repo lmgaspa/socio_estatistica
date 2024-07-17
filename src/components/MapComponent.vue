@@ -1,4 +1,6 @@
 <template>
+  <div class="flex flex-col items-center p-4 bg-gray-100">
+    <h1 class="text-3xl font-bold mb-4">Nossa localização</h1>
     <div class="map-container">
       <iframe
         class="w-full h-full"
@@ -11,18 +13,18 @@
         referrerpolicy="no-referrer-when-downgrade"
       ></iframe>
     </div>
-  </template>
-  
-  <script>
-  export default {
-    name: 'MapComponent',
-  };
-  </script>
-  
-  <style scoped>
-  .map-container {
-    width: 100%;
-    height: 500px;
-  }
-  </style>
-  
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'MapComponent',
+};
+</script>
+
+<style scoped>
+.map-container {
+  width: 100%;
+  height: 500px;
+}
+</style>

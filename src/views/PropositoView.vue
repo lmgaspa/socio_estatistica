@@ -15,7 +15,7 @@
         NOTA DE AVISO SOBRE AS ELEIÇÕES MUNICIPAIS DE 2024
       </h1>
       <p class="text-xl mb-6">
-        A Sócio Estatistica não publica e não autoriza a divulgação da suas
+        A Sócio Estatistica não publica e não autoriza a divulgação das suas
         pesquisas, sem autorização e registro do TSE, não podendo ser
         responsabilizada judicialmente caso o cliente a divulgue sem o devido
         registro.
@@ -26,7 +26,7 @@
       </p>
       <p class="text-xl mb-6">
         Caso saiba de alguma irregularidade, seja ela a divulgação de pesquisa
-        sem registro ou pesquisas falsas (FAKE NEWS), entre em contato conosco pelo whatsapp (73)9999-9999 ou clicando no
+        sem registro ou pesquisas falsas (FAKE NEWS), entre em contato conosco pelo e-mail: sociop@gmail.com ou clicando no
         botão de DENÚNCIA logo abaixo.
       </p>
       <button class="bg-blue-500 text-white px-4 py-2 rounded">DENÚNCIA</button>
@@ -37,13 +37,13 @@
       Bahia.
     </p>
     <p class="text-xl mb-6">
-      Somos a empresa com maior credibilidade no setor e na região, atendendo
+      Somos uma empresa de pesquisas eleitorais, atuante desde 1992, atendendo
       candidatos em toda a região Cacoeira. Cobrimos aproximadamente 40
       municípios, entre elas, Itabuna, Ilhéus, Camacã, Ipiau, entre outros.
     </p>
     <p class="text-xl mb-6">
       Temos como objetivo revelar o perfil do eleitor, investigar as intenções
-      de voto, fazendo com que o mesmo tenha mais ferramentas para elaborar suas
+      de voto, fazendo com que o candidato tenha mais ferramentas para elaborar suas
       estratégias na campanha.
     </p>
     <div class="pb-10"></div>
