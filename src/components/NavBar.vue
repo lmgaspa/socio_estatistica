@@ -2,7 +2,7 @@
   <nav class="bg-white p-4">
     <div class="container mx-auto flex items-center justify-between">
       <div class="flex items-center">
-        <img src="@/assets/images/logo_socio.jpeg" alt="Logo" class="h-12 mr-4">
+        <img src="@/assets/images/logo_socio.jpeg" alt="Logo" class="h-20 mr-4">
       </div>
       <div class="hidden lg:flex space-x-4">
         <a href="/" class="text-color2 hover:text-colorText_h1">HOME</a>
