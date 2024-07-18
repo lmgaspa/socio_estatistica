@@ -1,10 +1,10 @@
-import { defineConfig } from 'vite'
-import vue from '@vitejs/plugin-vue'
-import * as path from 'path'
-import { fileURLToPath } from 'url'
+import { defineConfig } from 'vite';
+import vue from '@vitejs/plugin-vue';
+import * as path from 'path';
+import { fileURLToPath } from 'url';
 
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = path.dirname(__filename)
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 export default defineConfig({
   plugins: [vue()],
@@ -13,6 +13,5 @@ export default defineConfig({
       '@': path.resolve(__dirname, 'src'),
     },
   },
-  base: '/', // Leave as '/' for both development and production
-})
-
+  base: '/', // Ensure this is set to '/' if no specific base path is needed
+});
