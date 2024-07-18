@@ -5,11 +5,11 @@
         <img src="@/assets/images/logo_socio.jpeg" alt="Logo" class="h-20 mr-4">
       </div>
       <div class="hidden lg:flex space-x-4">
-        <a href="/" class="text-color2 hover:text-colorText_h1">HOME</a>
-        <a href="#proposito" class="text-color2 hover:text-colorText_h1">NOSSO PROPÓSITO</a>
-        <a href="#metodologia" class="text-color2 hover:text-colorText_h1">METODOLOGIA</a>
-        <a href="#quemsomos" class="text-color2 hover:text-colorText_h1">QUEM SOMOS</a>
-        <a href="#contato" class="text-color2 hover:text-colorText_h1">CONTATO</a>
+        <router-link to="/" class="text-color2 hover:text-colorText_h1">HOME</router-link>
+        <router-link to="/proposito" class="text-color2 hover:text-colorText_h1">NOSSO PROPÓSITO</router-link>
+        <router-link to="/metodologia" class="text-color2 hover:text-colorText_h1">METODOLOGIA</router-link>
+        <router-link to="/quemsomos" class="text-color2 hover:text-colorText_h1">QUEM SOMOS</router-link>
+        <router-link to="/contato" class="text-color2 hover:text-colorText_h1">CONTATO</router-link>
       </div>
       <button @click="toggleMenu" class="lg:hidden text-color2">
         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -18,11 +18,11 @@
       </button>
     </div>
     <div v-if="isMenuOpen" class="lg:hidden bg-color2 text-center mt-2 space-y-2">
-      <a href="/" class="block text-white py-2" @click="closeMenu">HOME</a>
-      <a href="#proposito" class="block text-white py-2" @click="closeMenu">NOSSO PROPÓSITO</a>
-      <a href="#metodologia" class="block text-white py-2" @click="closeMenu">METODOLOGIA</a>
-      <a href="#quemsomos" class="block text-white py-2" @click="closeMenu">QUEM SOMOS</a>
-      <a href="#contato" class="block text-white py-2" @click="closeMenu">CONTATO</a>
+      <router-link to="/" class="block text-white py-2" @click="closeMenu">HOME</router-link>
+      <router-link to="/proposito" class="block text-white py-2" @click="closeMenu">NOSSO PROPÓSITO</router-link>
+      <router-link to="/metodologia" class="block text-white py-2" @click="closeMenu">METODOLOGIA</router-link>
+      <router-link to="/quemsomos" class="block text-white py-2" @click="closeMenu">QUEM SOMOS</router-link>
+      <router-link to="/contato" class="block text-white py-2" @click="closeMenu">CONTATO</router-link>
     </div>
   </nav>
 </template>

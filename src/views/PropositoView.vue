@@ -1,36 +1,32 @@
+
 <template>
-  <div id="proposito" class="text-center p-4">
-    <img
-      src="/src/assets/images/home2.png"
-      alt="Imagem Home"
-      class="w-full mb-4"
-    />
-    <div class="absolute bottom-0 right-0 p-2 bg-black bg-opacity-50 text-white text-xs opacity-0 hover:opacity-100 transition-opacity duration-300">
-      <a href="https://br.freepik.com/fotos-gratis/pessoas-de-negocios-que-discutem-os-resultados-do-trabalho-em-equipe-bem-sucedido_1211592.htm#from_view=detail_alsolike" target="_blank">
-        Imagem de ijeab no Freepik
-      </a>
-    </div>
-    <div class="text-center p-8">
-      <h1 class="text-4xl font-bold mb-4 items-center">
-        NOTA DE AVISO SOBRE AS ELEIÇÕES MUNICIPAIS DE 2024
-      </h1>
-      <p class="text-xl mb-6">
-        A Sócio Estatística não publica e não autoriza a divulgação das suas
-        pesquisas, sem autorização e registro do TSE, não podendo ser
-        responsabilizada judicialmente caso o cliente a divulgue sem o devido
-        registro.
-      </p>
-      <p class="text-xl mb-6">
-        Trabalhamos de acordo com a legislação eleitoral e só autorizamos
-        pesquisas devidamente registradas.
-      </p>
-      <p class="text-xl mb-6">
-        Caso saiba de alguma irregularidade, seja ela a divulgação de pesquisa
-        sem registro ou pesquisas falsas (FAKE NEWS), entre em contato conosco pelo e-mail: sociop@gmail.com ou clicando no
-        botão de DENÚNCIA logo abaixo.
-      </p>
-      <button @click="openDenunciaForm" class="bg-blue-500 text-white px-4 py-2 rounded">DENÚNCIA</button>
-    </div>
+  <div id="proposito" class="text-center p-8">
+    <h1 class="text-4xl font-bold mb-4 items-center">
+      NOTA DE AVISO SOBRE AS ELEIÇÕES MUNICIPAIS DE 2024
+    </h1>
+    <p class="text-xl mb-6">
+      A Sócio Estatística não publica e não autoriza a divulgação das suas
+      pesquisas, sem autorização e registro do TSE, não podendo ser
+      responsabilizada judicialmente caso o cliente a divulgue sem o devido
+      registro.
+    </p>
+    <p class="text-xl mb-6">
+      Trabalhamos de acordo com a legislação eleitoral e só autorizamos
+      pesquisas devidamente registradas.
+    </p>
+    <p class="text-xl mb-6">
+      Caso saiba de alguma irregularidade, seja ela a divulgação de pesquisa sem
+      registro ou pesquisas falsas (FAKE NEWS), entre em contato conosco pelo
+      e-mail: sociop@gmail.com ou clicando no botão de DENÚNCIA logo abaixo.
+    </p>
+    <button
+      @click="openDenunciaForm"
+      class="bg-blue-500 text-white px-4 py-2 rounded"
+    >
+      DENÚNCIA
+    </button>
+  </div>
+  <div class="text-center">
     <h1 class="text-4xl font-bold mb-4">NOSSO PROPÓSITO</h1>
     <p class="text-3xl font-bold text-color1 mb-8">
       Trabalhamos com Pesquisas Políticas há 30 anos na região Cacaueira da
@@ -43,8 +39,8 @@
     </p>
     <p class="text-xl mb-6">
       Temos como objetivo revelar o perfil do eleitor, investigar as intenções
-      de voto, fazendo com que o candidato tenha mais ferramentas para elaborar suas
-      estratégias na campanha.
+      de voto, fazendo com que o candidato tenha mais ferramentas para elaborar
+      suas estratégias na campanha.
     </p>
     <div class="pb-10"></div>
     <div class="relative">
@@ -55,8 +51,7 @@
       />
       <div
         class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300"
-      >
-      </div>
+      ></div>
     </div>
   </div>
 </template>
@@ -68,9 +63,12 @@ export default defineComponent({
   name: "PropositoView",
   methods: {
     openDenunciaForm() {
-      window.open("https://docs.google.com/forms/d/e/1FAIpQLSc5LXpCfVYrcSd2mVoNokkwrCxT3YD9Ux7HT4_naDiTmOTpjw/viewform?usp=sf_link", "_blank");
-    }
-  }
+      window.open(
+        "https://docs.google.com/forms/d/e/1FAIpQLSc5LXpCfVYrcSd2mVoNokkwrCxT3YD9Ux7HT4_naDiTmOTpjw/viewform?usp=sf_link",
+        "_blank"
+      );
+    },
+  },
 });
 </script>
 
