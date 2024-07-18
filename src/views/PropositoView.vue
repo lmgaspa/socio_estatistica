@@ -15,7 +15,7 @@
         NOTA DE AVISO SOBRE AS ELEIÇÕES MUNICIPAIS DE 2024
       </h1>
       <p class="text-xl mb-6">
-        A Sócio Estatistica não publica e não autoriza a divulgação das suas
+        A Sócio Estatística não publica e não autoriza a divulgação das suas
         pesquisas, sem autorização e registro do TSE, não podendo ser
         responsabilizada judicialmente caso o cliente a divulgue sem o devido
         registro.
@@ -29,7 +29,7 @@
         sem registro ou pesquisas falsas (FAKE NEWS), entre em contato conosco pelo e-mail: sociop@gmail.com ou clicando no
         botão de DENÚNCIA logo abaixo.
       </p>
-      <button class="bg-blue-500 text-white px-4 py-2 rounded">DENÚNCIA</button>
+      <button @click="openDenunciaForm" class="bg-blue-500 text-white px-4 py-2 rounded">DENÚNCIA</button>
     </div>
     <h1 class="text-4xl font-bold mb-4">NOSSO PROPÓSITO</h1>
     <p class="text-3xl font-bold text-color1 mb-8">
@@ -66,6 +66,11 @@ import { defineComponent } from "vue";
 
 export default defineComponent({
   name: "PropositoView",
+  methods: {
+    openDenunciaForm() {
+      window.open("https://docs.google.com/forms/d/e/1FAIpQLSc5LXpCfVYrcSd2mVoNokkwrCxT3YD9Ux7HT4_naDiTmOTpjw/viewform?usp=sf_link", "_blank");
+    }
+  }
 });
 </script>
 
