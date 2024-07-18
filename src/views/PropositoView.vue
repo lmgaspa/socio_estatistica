@@ -53,6 +53,7 @@
         class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300"
       ></div>
     </div>
+    <div class="max-sm:pb-8"></div>
   </div>
 </template>
 
