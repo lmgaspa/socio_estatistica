@@ -6,36 +6,16 @@ import QuemSomosView from '../views/QuemSomosView.vue';
 import ContatoView from '../views/ContatoView.vue';
 
 const routes = [
-  {
-    path: '/',
-    name: 'Home',
-    component: HomeView
-  },
-  {
-    path: '/proposito',
-    name: 'Proposito',
-    component: PropositoView
-  },
-  {
-    path: '/metodologia',
-    name: 'Metodologia',
-    component: MetodologiaView
-  },
-  {
-    path: '/quemsomos',
-    name: 'QuemSomos',
-    component: QuemSomosView
-  },
-  {
-    path: '/contato',
-    name: 'Contato',
-    component: ContatoView
-  }
+  { path: '/', name: 'Home', component: HomeView },
+  { path: '/proposito', name: 'Proposito', component: PropositoView },
+  { path: '/metodologia', name: 'Metodologia', component: MetodologiaView },
+  { path: '/quemsomos', name: 'QuemSomos', component: QuemSomosView },
+  { path: '/contato', name: 'Contato', component: ContatoView }
 ];
 
 const router = createRouter({
-    history: createWebHistory(),
-    routes
-  });
-  
-  export default router;
+  history: createWebHistory(),
+  routes
+});
+
+export default router;
