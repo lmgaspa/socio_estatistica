@@ -9,7 +9,7 @@
       <font-awesome-icon :icon="['fas', 'envelope']" class="w-6 h-6" />
       <p>sociop@gmail.com</p>
     </a>
-    <a href="https://wa.me/73988698660" target="_blank" class="flex items-center justify-center space-x-2 mt-2 hover:text-colorText_h1 cursor-pointer">
+    <a href="https://wa.me/+5573988698660" target="_blank" class="flex items-center justify-center space-x-2 mt-2 hover:text-colorText_h1 cursor-pointer">
       <font-awesome-icon :icon="['fab', 'whatsapp']" class="w-6 h-6" />
       <p>(73) 98869-8660</p>
     </a>
