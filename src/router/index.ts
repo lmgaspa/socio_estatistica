@@ -1,11 +1,11 @@
-import { createRouter, createWebHistory } from 'vue-router';
+import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router';
 import HomeView from '../views/HomeView.vue';
 import PropositoView from '../views/PropositoView.vue';
 import MetodologiaView from '../views/MetodologiaView.vue';
 import QuemSomosView from '../views/QuemSomosView.vue';
 import ContatoView from '../views/ContatoView.vue';
 
-const routes = [
+const routes: Array<RouteRecordRaw> = [
   { path: '/', name: 'Home', component: HomeView },
   { path: '/proposito', name: 'Proposito', component: PropositoView },
   { path: '/metodologia', name: 'Metodologia', component: MetodologiaView },
