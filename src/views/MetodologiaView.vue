@@ -1,15 +1,15 @@
 <template>
-  <div id="metodologia" class="text-center items-center pt-4 mt-4">
-    <h1 class="text-4xl font-bold mb-4">Metodologia</h1>
-    <p class="text-xl mb-8 text-center">
+  <div id="metodologia" class="text-center items-center pt-4 mt-4 px-4">
+    <h1 class="text-2xl sm:text-4xl font-bold mb-4">Metodologia</h1>
+    <p class="text-base sm:text-xl mb-8 text-center">
       Realizamos a coleta de dados nas ruas, entrevistando pessoas de acordo com
       os interesses de nossos clientes.
     </p>
-    <p class="text-xl mb-6 text-center">
+    <p class="text-base sm:text-xl mb-6 text-center">
       Nossas pesquisas são personalizadas, permitindo que o cliente defina
       diversos tópicos de seu interesse.
     </p>
-    <ul class="list-none text-xl mb-12 text-center">
+    <ul class="list-none text-base sm:text-xl mb-12 text-center">
       <li class="mb-4">
         ✔ Analisamos os candidatos mais fortes no momento da pesquisa.
       </li>

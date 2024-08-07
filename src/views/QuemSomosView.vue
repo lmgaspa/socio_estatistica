@@ -1,10 +1,10 @@
 <template>
-  <div id="quemsomos" class="text-center items-center pt-4 mt-4">
-    <h1 class="text-4xl font-bold mb-4">Quem Somos</h1>
-    <p class="text-xl mb-8">
+  <div id="quemsomos" class="text-center items-center pt-4 mt-4 px-4">
+    <h1 class="text-2xl sm:text-4xl font-bold mb-4">Quem Somos</h1>
+    <p class="text-lg sm:text-xl mb-8">
       A Sócio Estatística, foi fundada em 1992, com as seguintes diretrizes:
     </p>
-    <ul class="list-disc text-xl pl-6 mb-12 text-left mx-auto max-w-2xl">
+    <ul class="list-disc text-lg sm:text-xl pl-6 mb-12 text-left mx-auto max-w-2xl">
       <li class="mb-4">
         <strong>Foco em Pesquisas:</strong> Realiza exclusivamente pesquisas de mercado e opinião, sem atuar em assessoria ou consultoria.
       </li>
