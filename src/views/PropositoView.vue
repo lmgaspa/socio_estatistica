@@ -1,6 +1,6 @@
 <template>
   <div id="proposito" class="text-center p-8 px-4">
-    <h1 class="text-2xl sm:text-4xl font-bold mb-4 items-center">
+    <h1 class="text-2xl sm:text-4xl font-bold mb-4 items-center text-blue-500 hover:text-blue-800 transition duration-300 cursor-default">
       NOTA DE AVISO SOBRE AS ELEIÇÕES MUNICIPAIS DE 2024
     </h1>
     <p class="text-lg sm:text-xl mb-6">
@@ -20,13 +20,13 @@
     </p>
     <button
       @click="openDenunciaForm"
-      class="bg-blue-500 text-white px-4 py-2 rounded"
+      class="bg-blue-500 hover:bg-blue-800 transition duration-300 cursor-pointer text-white px-4 py-2 rounded"
     >
       DENÚNCIA
     </button>
   </div>
   <div class="text-center px-4">
-    <h1 class="text-2xl sm:text-4xl font-bold mb-4">NOSSO PROPÓSITO</h1>
+    <h1 class="text-2xl sm:text-4xl font-bold mb-4 text-blue-500 hover:text-blue-800 transition duration-300 cursor-default">NOSSO PROPÓSITO</h1>
     <p class="text-lg sm:text-3xl font-bold text-color1 mb-8">
       Trabalhamos com Pesquisas Políticas há 30 anos na região Cacaueira da
       Bahia.

@@ -1,6 +1,6 @@
 <template>
   <div id="metodologia" class="text-center items-center pt-4 mt-4 px-4">
-    <h1 class="text-2xl sm:text-4xl font-bold mb-4">Metodologia</h1>
+    <h1 class="text-2xl sm:text-4xl font-bold mb-4 text-blue-500 hover:text-blue-800 transition duration-300 cursor-default">Metodologia</h1>
     <p class="text-base sm:text-xl mb-8 text-center">
       Realizamos a coleta de dados nas ruas, entrevistando pessoas de acordo com
       os interesses de nossos clientes.

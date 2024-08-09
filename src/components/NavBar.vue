@@ -5,11 +5,11 @@
         <img src="@/assets/images/logo_socio.jpeg" alt="Logo" class="h-20 mr-4">
       </div>
       <div class="hidden lg:flex space-x-4">
-        <router-link to="/" class="text-color2 hover:text-colorText_h1">HOME</router-link>
-        <router-link to="/proposito" class="text-color2 hover:text-colorText_h1">NOSSO PROPÓSITO</router-link>
-        <router-link to="/metodologia" class="text-color2 hover:text-colorText_h1">METODOLOGIA</router-link>
-        <router-link to="/quemsomos" class="text-color2 hover:text-colorText_h1">QUEM SOMOS</router-link>
-        <router-link to="/contato" class="text-color2 hover:text-colorText_h1">CONTATO</router-link>
+        <router-link to="/" class="text-color2 hover:text-blue-800 transition duration-300 cursor-pointer">HOME</router-link>
+        <router-link to="/proposito" class="text-color2 hover:text-blue-800 transition duration-300 cursor-pointer">NOSSO PROPÓSITO</router-link>
+        <router-link to="/metodologia" class="text-color2 hover:text-blue-800 transition duration-300 cursor-pointer">METODOLOGIA</router-link>
+        <router-link to="/quemsomos" class="text-color2 hover:text-blue-800 transition duration-300 cursor-pointer">QUEM SOMOS</router-link>
+        <router-link to="/contato" class="text-color2 hover:text-blue-800 transition duration-300 cursor-pointer">CONTATO</router-link>
       </div>
       <button @click="toggleMenu" class="lg:hidden text-color2">
         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">

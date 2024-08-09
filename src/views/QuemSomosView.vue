@@ -1,6 +1,6 @@
 <template>
   <div id="quemsomos" class="text-center items-center pt-4 mt-4 px-4">
-    <h1 class="text-2xl sm:text-4xl font-bold mb-4">Quem Somos</h1>
+    <h1 class="text-2xl sm:text-4xl font-bold mb-4 text-blue-500 hover:text-blue-800 transition duration-300 cursor-default">Quem Somos</h1>
     <p class="text-lg sm:text-xl mb-8">
       A Sócio Estatística, foi fundada em 1992, com as seguintes diretrizes:
     </p>

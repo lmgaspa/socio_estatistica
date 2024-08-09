@@ -10,8 +10,8 @@
     </div>
     <div class="flex-1 flex items-center justify-center bg-color3 p-8">
       <form class="w-full bg-white p-4 rounded shadow-md" @submit.prevent="sendEmail">
-        <h2 class="text-3xl font-bold mb-4 text-center">PRONTO PARA SOLICITAR UM ORÇAMENTO?</h2>
-        <p class="text-center font-bold mb-6">PREENCHA O FORMULÁRIO E ENTRAREMOS EM CONTATO.</p>
+        <h2 class="text-3xl font-bold mb-4 text-center hover:text-blue-800 transition duration-300 cursor-default">PRONTO PARA SOLICITAR UM ORÇAMENTO?</h2>
+        <p class="text-center font-bold mb-6 hover:text-blue-800 transition duration-300 cursor-default">PREENCHA O FORMULÁRIO E ENTRAREMOS EM CONTATO.</p>
         <div class="mb-4">
           <label class="block text-black text-md font-bold mb-2" for="name">
             Nome*
@@ -34,10 +34,10 @@
           <label class="block text-black text-md font-bold mb-2" for="message">
             Sua Mensagem*
           </label>
-          <textarea class="shadow appearance-none border rounded w-full py-12 px-3 text-black leading-tight focus:outline-none focus:shadow-outline" id="message" rows="4" placeholder="Escreva sua mensagem aqui..." v-model="form.message" required></textarea>
+          <textarea class="shadow appearance-none border rounded w-full py-2 px-3 text-black leading-tight focus:outline-none focus:shadow-outline" id="message" rows="8" placeholder="Escreva sua mensagem aqui..." v-model="form.message" required></textarea>
         </div>
         <div class="flex items-center justify-center">
-          <button class="bg-color1 hover:bg-colorText_h1 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="submit">
+          <button class="bg-color1 hover:bg-blue-800 transition duration-300 cursor-pointer text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="submit">
             ENVIAR MENSAGEM
           </button>
         </div>

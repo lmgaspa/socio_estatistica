@@ -19,10 +19,6 @@ html, body {
   @apply flex flex-col min-h-screen;
 }
 
-h1 {
-  color: theme('colors.colorText_h1');
-}
-
 a {
   font-weight: bold;
 }
