@@ -45,7 +45,7 @@
       autorização e não avalizamos</strong>.
     </p>
     <p class="text-lg sm:text-xl mb-6">
-      o momento, os resultados eleitorais referentes a UBAITABA, que circulam
+      No momento, os resultados eleitorais referentes a UBAITABA, que circulam
       nas Redes sociais neste município, utilizando a logomarca da SÓCIO
       ESTATÍSTICA, são inverídicos.
     </p>
