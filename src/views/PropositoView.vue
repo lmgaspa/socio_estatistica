@@ -50,7 +50,7 @@
       ESTATÍSTICA, são inverídicos.
     </p>
     <p class="text-lg sm:text-xl mb-6">
-    <strong>São FAKE NEWS.</strong> Não correspondem á realidade. Absolutamente falsos
+    <strong>São FAKE NEWS.</strong> Não correspondem á realidade. Absolutamente falsos.
     </p>
     <p class="text-lg sm:text-xl mb-6">
       Atenciosamente
