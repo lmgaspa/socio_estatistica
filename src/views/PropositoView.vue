@@ -27,6 +27,39 @@
       DENÚNCIA
     </button>
   </div>
+  <div class="text-center p-8 px-4">
+    <h1
+      class="text-2xl sm:text-4xl font-bold mb-4 items-center text-blue-500 hover:text-blue-800 transition duration-300 cursor-default"
+    >
+    NOTA DE ESCLARECIMENTO SOBRE FAKE NEWS EM UBAITABA</h1>
+    <p class="text-lg sm:text-xl mb-6">
+      A Sócio Estatística Pesquisa e Consultoria Ltda e Instituto Gasparetto
+      Pesquisas, comunica que <strong>não tem nenhuma pesquisa registrada concernente ao
+      processo eleitoral do município de UBAITABA</strong>, e que <strong>somente autoriza
+      divulgação de pesquisa eleitoral, única e exclusivamente após o devido
+      registro na Justiça Eleitoral.</strong>
+    </p>
+    <p class="text-lg sm:text-xl mb-6">
+      Nesse sentido, quaisquer resultados eleitorais atribuídos ao Instituto em
+      qualquer município, <strong>sem o devido registro na Justiça Eleitoral, não tem
+      autorização e não avalizamos</strong>.
+    </p>
+    <p class="text-lg sm:text-xl mb-6">
+      o momento, os resultados eleitorais referentes a UBAITABA, que circulam
+      nas Redes sociais neste município, utilizando a logomarca da SÓCIO
+      ESTATÍSTICA, são inverídicos.
+    </p>
+    <p class="text-lg sm:text-xl mb-6">
+    <strong>São FAKE NEWS.</strong> Não correspondem á realidade. Absolutamente falsos
+    </p>
+    <p class="text-lg sm:text-xl mb-6">
+      Atenciosamente
+      <br /><br />
+      Agenor Gasparetto-Sociólogo/GPE Pesquisas<br /><br />
+      Alda Alves Pereira- Bacharel em Políticas Públicas/Sócio Estatística<br /><br />
+      Itabuna, 27 de setembro de 2024.
+    </p>
+  </div>
   <div class="text-center px-4">
     <h1
       class="text-2xl sm:text-4xl font-bold mb-4 text-blue-500 hover:text-blue-800 transition duration-300 cursor-default"
