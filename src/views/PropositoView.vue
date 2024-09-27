@@ -29,20 +29,47 @@
   </div>
   <div class="text-center p-8 px-4">
     <h1
-      class="text-2xl sm:text-4xl font-bold mb-4 items-center text-blue-500 hover:text-blue-800 transition duration-300 cursor-default"
+      class="text-2xl sm:text-4xl font-bold mb-0 items-center text-blue-500 hover:text-blue-800 transition duration-300 cursor-default"
     >
-    NOTA DE ESCLARECIMENTO SOBRE FAKE NEWS EM UBAITABA</h1>
+      COMUNICAÇÃO DE OFÍCIO AO JUÍZO ELEITORAL DE UBAITABA - BA
+    </h1>
+  </div>
+  <div class="text-center p-0 px-4">
     <p class="text-lg sm:text-xl mb-6">
-      A Sócio Estatística Pesquisa e Consultoria Ltda e Instituto Gasparetto
-      Pesquisas, comunica que <strong>não tem nenhuma pesquisa registrada concernente ao
-      processo eleitoral do município de UBAITABA</strong>, e que <strong>somente autoriza
-      divulgação de pesquisa eleitoral, única e exclusivamente após o devido
-      registro na Justiça Eleitoral.</strong>
+      <strong
+        >Ao Chefe de Cartório da Zona Eleitoral 073 - Ubaitaba Paulo Roberto de
+        Carvalho Pedreira</strong
+      >
+    </p>
+    <p class="text-lg sm:text-xl mb-6">
+      <strong>Com cópia ao Juiz Eleitoral Dr. George Barbosa Cordeiro</strong>
+    </p>
+    <p class="text-lg sm:text-xl mb-6">
+      A Sócio Estatística Pesquisa e Consultoria Ltda, inscrita sob o CNPJ.
+      34.062.026.0001-86, situada na Av. Francisco Ribeiro Júnior, 198, 6º
+      andar, sala 606, Centro, município de Itabuna, Bahia, CEP: 42.600-921,
+      e-mail: sociop@gmail.com, vem através de seu representante legal Agenor
+      Gasparetto, denunciar a veiculação de pesquisas falsas no município de
+      Ubaitaba, atribuídos ao nosso instituto.
+    </p>
+    <p class="text-lg sm:text-xl mb-6">
+      A Sócio Estatística Pesquisa e Consultoria Ltda, esclarece que não tem
+      nenhuma pesquisa registrada concernente ao processo eleitoral do município
+      de UBAITABA, e que
+      <strong
+        >somente autoriza divulgação de pesquisa eleitoral, única e
+        exclusivamente, após o devido registro na Justiça Eleitoral</strong
+      >, como está na política do instituto
+      <strong>www.socioestatistica.com.br</strong> ou
+      <strong>www.gpebahia.com.br</strong>
     </p>
     <p class="text-lg sm:text-xl mb-6">
       Nesse sentido, quaisquer resultados eleitorais atribuídos ao Instituto em
-      qualquer município, <strong>sem o devido registro na Justiça Eleitoral, não tem
-      autorização e não avalizamos</strong>.
+      qualquer município,
+      <strong
+        >sem o devido registro na Justiça Eleitoral, não tem autorização e não
+        avalizamos</strong
+      >.
     </p>
     <p class="text-lg sm:text-xl mb-6">
       No momento, os resultados eleitorais referentes a UBAITABA, que circulam
@@ -50,7 +77,50 @@
       ESTATÍSTICA, são inverídicos.
     </p>
     <p class="text-lg sm:text-xl mb-6">
-    <strong>São FAKE NEWS.</strong> Não correspondem á realidade. Absolutamente falsos.
+      <strong>São FAKE NEWS.</strong> Não correspondem á realidade.
+      Absolutamente falsos.
+    </p>
+    <p class="text-lg sm:text-xl mb-6">
+      Atenciosamente
+      <br /><br />
+      Agenor Gasparetto - Sociólogo responsável<br /><br />
+      Itabuna, 27 de setembro de 2024.
+    </p>
+  </div>
+  <div class="text-center p-8 px-4">
+    <h1
+      class="text-2xl sm:text-4xl font-bold mb-4 items-center text-blue-500 hover:text-blue-800 transition duration-300 cursor-default"
+    >
+      NOTA DE ESCLARECIMENTO SOBRE FAKE NEWS EM UBAITABA
+    </h1>
+    <p class="text-lg sm:text-xl mb-6">
+      A Sócio Estatística Pesquisa e Consultoria Ltda e Instituto Gasparetto
+      Pesquisas, comunica que
+      <strong
+        >não tem nenhuma pesquisa registrada concernente ao processo eleitoral
+        do município de UBAITABA</strong
+      >, e que
+      <strong
+        >somente autoriza divulgação de pesquisa eleitoral, única e
+        exclusivamente após o devido registro na Justiça Eleitoral.</strong
+      >
+    </p>
+    <p class="text-lg sm:text-xl mb-6">
+      Nesse sentido, quaisquer resultados eleitorais atribuídos ao Instituto em
+      qualquer município,
+      <strong
+        >sem o devido registro na Justiça Eleitoral, não tem autorização e não
+        avalizamos</strong
+      >.
+    </p>
+    <p class="text-lg sm:text-xl mb-6">
+      No momento, os resultados eleitorais referentes a UBAITABA, que circulam
+      nas Redes sociais neste município, utilizando a logomarca da SÓCIO
+      ESTATÍSTICA, são inverídicos.
+    </p>
+    <p class="text-lg sm:text-xl mb-6">
+      <strong>São FAKE NEWS.</strong> Não correspondem á realidade.
+      Absolutamente falsos.
     </p>
     <p class="text-lg sm:text-xl mb-6">
       Atenciosamente
