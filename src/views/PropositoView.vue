@@ -31,6 +31,54 @@
     <h1
       class="text-2xl sm:text-4xl font-bold mb-0 items-center text-blue-500 hover:text-blue-800 transition duration-300 cursor-default"
     >
+      NOTA DE ESCLARECIMENTO SOBRE FAKE NEWS EM ILHÉUS
+    </h1>
+  </div>
+  <div class="text-center p-0 px-4">
+    <p class="text-lg sm:text-xl mb-6">
+      A Sócio Estatística Pesquisa e Consultoria Ltda e Instituto Gasparetto
+      Pesquisas, vem por nota esclarecer que circula nas Redes Sociais neste
+      município um relatório de pesquisa com estrutura e formatação igual aos
+      relatórios emitidos pela nossa Empresa.
+    </p>
+    <p class="text-lg sm:text-xl mb-6">
+      Os dados que constam neste relatório não são reais foram alterados e
+      modificados completamente. Inclusive consta na capa e nas folhas
+      subsequentes o nome PIA-Pesquisa e Análise Social Econômica, a Sócio
+      Estatística Pesquisa e Consultoria Ltda <strong>não tem nenhuma responsabilidade
+      sobre a circulação de pesquisa não registrada ou alterada, concernente ao
+      processo eleitoral do município de ILHÉUS</strong>, <strong>e que somente autoriza
+      divulgação de pesquisa eleitoral, única e exclusivamente após o devido
+      registro na Justiça Eleitoral.</strong>
+    </p>
+    <p class="text-lg sm:text-xl mb-6">
+      Nesse sentido, quaisquer resultados eleitorais atribuídos ao Instituto em
+      qualquer município,
+      <strong
+        >sem o devido registro na Justiça Eleitoral, não tem autorização e não
+        avalizamos</strong
+      >.
+    </p>
+    <p class="text-lg sm:text-xl mb-6">
+      Os resultados eleitorais referentes a ILHÉUS, que circulam nas Redes
+      Sociais neste município, são inverídicos.
+    </p>
+    <p class="text-lg sm:text-xl mb-6">
+      <strong>São FAKE NEWS.</strong> Não correspondem á realidade.
+      Absolutamente falsos.
+    </p>
+    <p class="text-lg sm:text-xl mb-6">
+      Atenciosamente
+      <br /><br />
+      Agenor Gasparetto - Sociólogo responsável<br /><br />
+      Alda Alves Pereira- Bacharel em Políticas Públicas/Sócio Estatísticas<br /><br />
+      Itabuna, 02 de outubro de 2024.
+    </p>
+  </div>
+  <div class="text-center p-8 px-4">
+    <h1
+      class="text-2xl sm:text-4xl font-bold mb-0 items-center text-blue-500 hover:text-blue-800 transition duration-300 cursor-default"
+    >
       COMUNICAÇÃO DE OFÍCIO AO JUÍZO ELEITORAL DE UBAITABA - BA
     </h1>
   </div>
