@@ -94,6 +94,8 @@
           >
             ENVIAR MENSAGEM
           </button>
+          <p> "bg-color1 hover:bg-blue-800 transition duration-300 cursor-pointer text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">
+            © Copywriter. Simple Software. Todos os direitos reservados.  2024.</p>
         </div>
       </form>
     </div>
