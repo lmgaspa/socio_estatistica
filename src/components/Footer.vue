@@ -13,7 +13,7 @@
       <font-awesome-icon :icon="['fab', 'whatsapp']" class="w-6 h-6" />
       <p>(73) 98869-8660</p>
     </a>
-    <p class="mt-4 hover:text-blue-800 transition duration-300 cursor-default">Endereço: Rua Francisco Ribeiro Jr., 198, Sala 606 - Centro, Itabuna - BA.</p>
+    <p class="mt-4 hover:text-blue-800 transition duration-300 cursor-default">Endereço: Av. Francisco Ribeiro Jr., 198, Sala 606 - Centro, Itabuna - BA, CEP: 45-600-921.</p>
     <p class="mt-4 hover:text-blue-800 transition duration-300 cursor-default">© Copywriter. Simple Software. Todos os direitos reservados.  2024.</p>
   </footer>
 </template>

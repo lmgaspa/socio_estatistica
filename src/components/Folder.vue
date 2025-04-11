@@ -3,7 +3,7 @@
     <picture>
       <source srcset="@/assets/images/home2.webp" type="image/webp" width="1200" height="600">
       <img
-        src="@/assets/images/home2.png"
+        src="@/assets/images/home2.webp"
         sizes="(max-width: 600px) 600px, (max-width: 1200px) 1200px, 1800px"
         alt="Imagem Home"
         class="w-full mb-4"

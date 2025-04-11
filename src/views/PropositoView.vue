@@ -1,4 +1,22 @@
 <template>
+    <div class="text-center p-8 px-4 bg-blue-200 rounded-lg mb-10">
+    <h1
+      class="text-2xl sm:text-4xl font-bold mb-4 text-blue-500 hover:text-blue-800 transition duration-300 cursor-default"
+    >
+      JÁ ESTAMOS PESQUISANDO PARA AS ELEIÇÕES DE 2026
+    </h1>
+    <p class="text-lg sm:text-xl mb-6">
+      A Sócio Estatística está em campo realizando pesquisas de opinião para as Eleições Gerais de 2026, avaliando cenários e intenções de voto para os cargos de
+      <strong>Deputado Federal, Deputado Estadual, Senador, Governador e Presidente da República</strong>.
+    </p>
+    <p class="text-lg sm:text-xl mb-6">
+      Seguimos com total compromisso com a <strong>legalidade, transparência e ética</strong>, respeitando rigorosamente a legislação eleitoral vigente.
+    </p>
+    <p class="text-lg sm:text-xl">
+      Para saber mais ou contratar uma pesquisa, entre em contato conosco.
+    </p>
+  </div>
+
   <div id="proposito" class="text-center p-8 px-4">
     <h1
       class="text-2xl sm:text-4xl font-bold mb-4 items-center text-blue-500 hover:text-blue-800 transition duration-300 cursor-default"
