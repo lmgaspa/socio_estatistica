@@ -1,9 +1,9 @@
 <template>
   <div class="text-center p-4">
     <picture>
-      <source srcset="@/assets/images/home2.wepb" type="image/webp" width="1200" height="600">
+      <source srcset="@/assets/images/home2.webp" type="image/webp" width="1200" height="600">
       <img
-        src="@/assets/images/home2.wepb"
+        src="@/assets/images/home2.webp"
         sizes="(max-width: 600px) 600px, (max-width: 1200px) 1200px, 1800px"
         alt="Imagem Home"
         class="w-full mb-4"
